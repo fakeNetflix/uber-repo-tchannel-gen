@@ -19,7 +19,7 @@
   "dependencies": {
     "git-repo-info": "1.1.2",
     "logtron": "8.5.0",
-    "minimist": "1.1.1",
+    "minimist": "1.2.5",
     "my-local-ip": "1.0.0",
     "process": "0.11.1",
     "process-reporter": "1.0.0",
