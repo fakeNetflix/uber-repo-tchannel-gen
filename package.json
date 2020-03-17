@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "camelize": "1.0.0",
-    "minimist": "1.1.1",
+    "minimist": "1.2.5",
     "process": "0.11.1",
     "promptly": "0.2.1",
     "uber-ngen": "5.2.0"
